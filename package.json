@@ -1,0 +1,1 @@
+{"name":"entourage-arabian-nights","version":"1.0.0","description":"Multiplayer finance event game, Arabian Nights edition","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
